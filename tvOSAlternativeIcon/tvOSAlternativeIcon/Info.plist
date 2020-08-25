@@ -33,22 +33,10 @@
 	<key>CFBundleIcons</key>
 	<dict>
 		<key>CFBundleAlternateIcons</key>
-		<dict>
-			<key>AppIconBlack</key>
-			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>AppIconBlack</string>
-				</array>
-			</dict>
-			<key>AppIconGreen</key>
-			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>AppIconGreen</string>
-				</array>
-			</dict>
-		</dict>
+		<array>
+			<string>AppIconBlack</string>
+			<string>AppIconGreen</string>
+		</array>
 	</dict>
 </dict>
 </plist>
